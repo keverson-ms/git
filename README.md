@@ -318,7 +318,7 @@ Renomeia a branch atual para o novo nome.
 <summary><code>git branch -m &lt;nome_antigo&gt; &lt;novo_nome&gt;</code></summary>
 <pre><code>git branch -m &lt;nome_antigo&gt; &lt;novo_nome&gt;</code></pre>
 
-Renomeia uma branch específica de `<nome_antigo>` para `<novo_nome>`.
+Renomeia uma branch específica de <code>&lt;nome_antigo&gt;</code> para <code>&lt;novo_nome&gt;</code>.
 </details>
 
 <details>
@@ -546,7 +546,7 @@ Aplica as mudanças de um commit específico de outra branch na branch atual.
 <summary><code>git config --global alias.&lt;abreviacao&gt; &lt;comando&gt;</code></summary>
 <pre><code>git config --global alias.&lt;abreviacao&gt; &lt;comando&gt;</code></pre>
 
-Cria um alias global, permitindo usar `<abreviacao>` no lugar de `<comando>`.
+Cria um alias global, permitindo usar <code>&lt;abreviacao&gt;</code> no lugar de <code>&lt;comando&gt;</code>.
 </details>
 
 <details>
